@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [hui](hui)
 
-- 💬 Ask me about **react,js and java**
+- 💬 Learning backend development and DSA.
 
 - 📫 How to reach me **abhishekpandey10082002@gmail.com**
 
