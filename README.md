@@ -104,7 +104,10 @@
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
-<p align="left" >
+
+
+
+<p align="center" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpandey108&theme=chartreuse-dark"  />
 </p>
 
