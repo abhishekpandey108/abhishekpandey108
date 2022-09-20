@@ -120,7 +120,7 @@
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
+
  <br/>
 <p align="center">
 <a href="https://github.com/abhishekpandey108"><span>
@@ -128,7 +128,7 @@
 </span></a> </p>
 
  <br/>
- 
+<hr clear="both"> 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishekpandey108&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
