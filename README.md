@@ -2,8 +2,8 @@
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Pandey </h1>
 
-<h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
-<h3><i>Happy Coding!</i> 😊</h3>
+<h3><samp><strong>I'm currently learning Full- Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
+<h3><i>To know more visit here...</i><a href="https://abhishekpandeyportfolio.netlify.app/">Portfolio</a> 😊</h3>
 <hr>
 
 
