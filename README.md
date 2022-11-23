@@ -30,7 +30,7 @@
   <p>
  
  
- <p align="center">
+ <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-pandey-a167a5230/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="abhishekpandey10082002@gmail.com" href="mailto:abhishekpandey10082002@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/918467933363" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
